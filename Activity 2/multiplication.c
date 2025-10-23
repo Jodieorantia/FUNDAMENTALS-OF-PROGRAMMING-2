@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i, num = 8;
+    int i, num = ;
 
     printf("Multiplication Table of %d:\n", num);
     for(i = 1; i <= 10; i++) {
@@ -10,3 +10,4 @@ int main() {
 
     return 0;
 }
+
